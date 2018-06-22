@@ -1,0 +1,13 @@
+Ingredients-
+-1 glass water
+-A packet of maggie
+-container
+-gas
+-cylinder
+-anything else you might wanna include
+
+Directions-
+ 1.Add the water in a container.
+ 2.Add whatever is there in the maggie packetin the container and heat it till however long you feel.
+ 3.This is just a test file created to learn the working process of Github.
+ 4.I really don't know how to make maggie.
